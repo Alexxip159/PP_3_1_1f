@@ -1,4 +1,4 @@
-package ru.alexxip59.pp_3_1_1.model;
+package ru.alexxip59.pp_3_1_1f.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.*;

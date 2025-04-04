@@ -1,6 +1,6 @@
-package ru.alexxip59.pp_3_1_1.service;
+package ru.alexxip59.pp_3_1_1f.service;
 
-import ru.alexxip59.pp_3_1_1.model.User;
+import ru.alexxip59.pp_3_1_1f.model.User;
 
 import java.util.List;
 

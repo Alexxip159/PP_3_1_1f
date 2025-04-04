@@ -1,8 +1,8 @@
-package ru.alexxip59.pp_3_1_1.dao;
+package ru.alexxip59.pp_3_1_1f.dao;
 
 
 import org.springframework.stereotype.Component;
-import ru.alexxip59.pp_3_1_1.model.User;
+import ru.alexxip59.pp_3_1_1f.model.User;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;

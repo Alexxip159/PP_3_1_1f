@@ -1,12 +1,11 @@
-package ru.alexxip59.pp_3_1_1.controller;
+package ru.alexxip59.pp_3_1_1f.controller;
 
 import org.springframework.stereotype.Controller;
-import org.springframework.stereotype.Repository;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
-import ru.alexxip59.pp_3_1_1.model.User;
-import ru.alexxip59.pp_3_1_1.service.UserService;
+import ru.alexxip59.pp_3_1_1f.model.User;
+import ru.alexxip59.pp_3_1_1f.service.UserService;
 
 import javax.validation.Valid;
 

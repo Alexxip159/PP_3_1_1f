@@ -1,11 +1,10 @@
-package ru.alexxip59.pp_3_1_1.service;
+package ru.alexxip59.pp_3_1_1f.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import ru.alexxip59.pp_3_1_1.dao.UserDao;
-import ru.alexxip59.pp_3_1_1.model.User;
-import ru.alexxip59.pp_3_1_1.repository.UserRepository;
+import ru.alexxip59.pp_3_1_1f.model.User;
+import ru.alexxip59.pp_3_1_1f.repository.UserRepository;
 
 import java.util.List;
 
